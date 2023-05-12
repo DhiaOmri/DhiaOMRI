@@ -5,8 +5,7 @@
 Hi there, my name is Dhia, I am excited to share with you a bit about myself and my experience as a software engineer and Front-End-Web development.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-- 🔭 My goal is to develop scalable, maintainable and user-friendly web applications that
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide a seamless user experience
+- 🔭 My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience
 - 🌱 I am constantly learning and experimenting new technologies and frameworks to find the <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;best solutions to the problems at hand.
 - 👯 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
