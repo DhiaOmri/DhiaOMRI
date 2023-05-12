@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**DhiaOmri/DhiaOMRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hi there, my name is Dhia, I am excited to share with you a bit about myself and my experience as a software engineer and Front-End-Web developer.
 
