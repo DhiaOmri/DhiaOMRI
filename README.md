@@ -11,10 +11,13 @@ Hi there, my name is Dhia, I am excited to share with you a bit about myself and
 - 👯 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
 - 🤔 My ultimate goal is to create innovative and user-friendly web applications that<br/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide real value to users.
-- 💬 Ask me about HTML / CSS and Js.
+- 💬 Ask me about HTML / CSS and Js.  
 - 😄 I’m looking for help in learning about Accessible Websites.
 - ⚡  I’m looking to collaborate on developing new open-source projects.
- 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
