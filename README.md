@@ -12,7 +12,7 @@ Hi there, my name is Dhia, I am excited to share with you a bit about myself and
 - 💬 Ask me about HTML / CSS and Js.
 - 😄 I’m looking for help in learning about Accessible Websites.
 - ⚡  I’m looking to collaborate on developing new open-source projects.
-
+ 
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
