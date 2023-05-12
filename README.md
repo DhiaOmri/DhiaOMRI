@@ -21,7 +21,7 @@ Hi there, my name is Dhia, I am excited to share with you a bit about myself and
 <div align = "center">
     
 [![Gmail: Dhia OMRI ](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:dhiaomri94@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DhiaOmri)]([https://www.frontendmentor.io/profile/DhiaOmri](https://www.frontendmentor.io/profile/DhiaOmri))&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DhiaOmri)](https://www.frontendmentor.io/profile/DhiaOmri)&nbsp;
 <br>
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/Dhia_Omri)](https://www.freecodecamp.org/Dhia_Omri)&nbsp;
 [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhia-omri-9295a2160/)](https://www.linkedin.com/in/dhia-omri-9295a2160/)
