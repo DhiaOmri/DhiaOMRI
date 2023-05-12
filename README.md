@@ -3,17 +3,27 @@
 <!--
 **DhiaOmri/DhiaOMRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there, my name is Dhia, I am excited to share with you a bit about myself and my experience as a software engineer and Front-End-Web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience
+- 🌱 I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand.
+- 👯 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
+- 🤔 My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
+- 💬 Ask me about HTML / CSS and Js.
+- 😄 I’m looking for help in learning about Accessible Websites.
+- ⚡  I’m looking to collaborate on developing new open-source projects.
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: Dhia OMRI ](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:dhiaomri94@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DhiaOmri)]([https://www.frontendmentor.io/profile/MelvinAguilar](https://www.frontendmentor.io/profile/DhiaOmri))&nbsp;
+<br>
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/Dhia_Omri)](https://www.freecodecamp.org/Dhia_Omri)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhia-omri-9295a2160/)](https://www.linkedin.com/in/dhia-omri-9295a2160/)
+  
+</div>
 
 <div align = "center">
 
