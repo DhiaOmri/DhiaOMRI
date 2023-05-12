@@ -5,7 +5,7 @@
 Hi there, my name is Dhia, I am excited to share with you a bit about myself and my experience as a software engineer and Front-End-Web developer.
 
 - 🔭 My goal is to develop scalable, maintainable and user-friendly web applications that<br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;provide a seamless user experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide a seamless user experience
 - 🌱 I am constantly learning and experimenting new technologies and frameworks to find the 
       best solutions to the problems at hand.
 - 👯 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
