@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
- ![Bootstrap](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue)&nbsp;
 </details>
 
 <details open>
