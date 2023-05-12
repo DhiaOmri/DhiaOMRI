@@ -3,7 +3,8 @@
 
 
 Hi there, my name is Dhia, I am excited to share with you a bit about myself and my experience as a software engineer and Front-End-Web developer.
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 - 🔭 My goal is to develop scalable, maintainable and user-friendly web applications that<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide a seamless user experience
 - 🌱 I am constantly learning and experimenting new technologies and frameworks to find the <br/> 
@@ -14,9 +15,9 @@ Hi there, my name is Dhia, I am excited to share with you a bit about myself and
 - 💬 Ask me about HTML / CSS and Js.  
 - 😄 I’m looking for help in learning about Accessible Websites.
 - ⚡  I’m looking to collaborate on developing new open-source projects.
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<b> Skills</b>
 <br>
 <h2 align="center">📫 Connect with me</h2>
 
