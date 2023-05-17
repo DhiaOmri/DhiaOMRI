@@ -21,7 +21,7 @@ Hi there, my name is Dhia, I am excited to share with you a bit about myself and
 <div align = "center">
     
 [![Gmail: Dhia OMRI ](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:dhiaomri94@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://dhia-omri.tn/)](https://dhia-omri.tn/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://dhia-omri.tn/)](https://dhia-omri.tn/){:target="_blank"} &nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DhiaOmri)](https://www.frontendmentor.io/profile/DhiaOmri)&nbsp;
 <br>
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/Dhia_Omri)](https://www.freecodecamp.org/Dhia_Omri)&nbsp;
